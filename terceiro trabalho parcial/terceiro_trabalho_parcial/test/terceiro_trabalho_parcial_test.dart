@@ -1,4 +1,4 @@
-import 'package:fundamentos_de_dart/fundamentos_de_dart.dart';
+import 'package:terceiro_trabalho_parcial/terceiro_trabalho_parcial.dart';
 import 'package:test/test.dart';
 
 void main() {
